@@ -1,1 +1,1 @@
-include ':guaguaka'
+include ':guaguaka', ':listanim'
